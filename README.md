@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server that lets AI assistants like Claude control Apple Shortcuts automations. This enables AI models to trigger shortcuts and automate tasks on macOS in a safe and controlled way.
 
+<a href="https://glama.ai/mcp/servers/15z6abk6p2"><img width="380" height="200" src="https://glama.ai/mcp/servers/15z6abk6p2/badge" /></a>
+
 ## What is MCP? 🤔
 
 The Model Context Protocol (MCP) is a system that lets AI apps, like Claude Desktop, connect to external tools and data sources. It gives a clear and safe way for AI assistants to work with local services and APIs while keeping the user in control.
